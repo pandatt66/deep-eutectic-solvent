@@ -1,0 +1,69 @@
+﻿TY  - JOUR
+AB  - Several methods are available for calculating shear viscosities of liquids from molecular dynamics simulations. There are equilibrium methods based on pressure or momentum fluctuations and several nonequilibrium methods. For the nonequilibrium method using a periodic shear flow, all relevant quantities, including the accuracy, can be estimated before performing the simulation. We compared the applicability, accuracy and efficiency of this method with two equilibrium methods and another nonequilibrium method, using simulations of a Lennard-Jones fluid and the SPC and SPC/E [(extended) simple point charge] water models. (C) 2002 American Institute of Physics.
+AN  - WOS:000172784700025
+AU  - Hess, B.
+DA  - Jan 1
+DO  - 10.1063/1.1421362
+IS  - 1
+N1  - Times Cited: 216
+218
+PY  - 2002
+SN  - 0021-9606
+SP  - 209-217
+ST  - Determining the shear viscosity of model liquids from molecular dynamics simulations
+T2  - Journal of Chemical Physics
+TI  - Determining the shear viscosity of model liquids from molecular dynamics simulations
+UR  - <Go to ISI>://WOS:000172784700025
+VL  - 116
+ID  - 1859
+ER  - 
+
+
+TY  - CHAP
+A2  - LePage, Raoul
+A2  - Billard, Lynne
+A3  - Barnett, Vic
+A2  - Bradley, Ralph A.
+A2  - Fisher, Nicholas I.
+A2  - Hunter, J. Stuart
+A2  - Kadane, J. B.
+A2  - Kendall, David G.
+A2  - Smith, Adrian F.M.
+A2  - Stigler, Stephen M.
+A2  - Teugels, Jozef
+A2  - Watson, Geoffrey S.
+AU  - Politis, D. N.
+AU  - Romano, J.
+CY  - New York
+PB  - Wiley
+PY  - 1992
+SP  - 263-270
+ST  - Circular block resampling procedure for stationary data
+T2  - Exploring the Limits of Bootstrap
+T3  - Wiley Series in Probability and Mathematical Statistics: Applied Probability and Statistics Section
+TI  - Circular block resampling procedure for stationary data
+ID  - 1857
+ER  - 
+
+
+TY  - JOUR
+AU  - Berendsen, H. J. C.
+AU  - Postma, J. P. M.
+AU  - van Gunsteren, W. F.
+AU  - DiNola, A.
+AU  - Haak, J. R.
+DO  - doi:http://dx.doi.org/10.1063/1.448118
+IS  - 8
+PY  - 1984
+SP  - 3684-3690
+ST  - Molecular dynamics with coupling to an external bath
+T2  - The Journal of Chemical Physics
+TI  - Molecular dynamics with coupling to an external bath
+UR  - http://scitation.aip.org/content/aip/journal/jcp/81/8/10.1063/1.448118
+http://scitation.aip.org/docserver/fulltext/aip/journal/jcp/81/8/1.448118.pdf?expires=1446667260&id=id&accname=2108376&checksum=604E1FB2C26CC456C4A53C569E30A2D9
+VL  - 81
+ID  - 2120
+ER  - 
+
+
+
